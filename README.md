@@ -1,6 +1,6 @@
 # Linux Bash Script
 
-![Linux Logo](<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="25" height="25" />)
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="25" height="25" />
 
 Este repositorio contiene una colección de scripts de Linux Bash diseñados para automatizar tareas comunes en sistemas Linux y Unix. Los scripts abarcan una variedad de funciones y están diseñados para simplificar las tareas diarias de administración del sistema.
 
