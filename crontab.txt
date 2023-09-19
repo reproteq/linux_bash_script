@@ -17,6 +17,8 @@ GNU nano 6.4                       /tmp/crontab.AQisLY/crontab
 #1 1 * * * /root/ttscript/logcleanscript.sh
 
 1 1 * * * /root/ttscript/logcleanscript2.sh
+1 1 * * * /root/ttscript/./start_lxc.sh  > /var/log/mis_scripts_salida.log 2>&1
+1 1 * * * /root/ttscript/./stop_lxc.sh   > /var/log/mis_scripts_salida.log 2>&1
 
 
 
