@@ -4,14 +4,6 @@
 
 Este repositorio contiene una colección de scripts de Linux Bash diseñados para automatizar tareas comunes en sistemas Linux y Unix. Los scripts abarcan una variedad de funciones y están diseñados para simplificar las tareas diarias de administración del sistema.
 
-## Contenido
-
-- [Requisitos](#requisitos)
-- [Uso](#uso)
-- [Ejemplos](#ejemplos)
-- [Contribución](#contribución)
-- [Licencia](#licencia)
-
 ## Requisitos
 
 Asegúrate de tener los siguientes requisitos antes de utilizar estos scripts:
