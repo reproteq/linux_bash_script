@@ -11,7 +11,7 @@ GNU nano 6.4                       /tmp/crontab.AQisLY/crontab
 
 #*/10 * * * *t  python3 /root/dir/script.py  > /dev/null
 
-#@reboot  python3 /root/dir/scrip.py  > /dev/null
+#@reboot  python3 /root/dir/scrip.py  > /dev/null 2>&1 & 
 
 
 #1 1 * * * /root/ttscript/logcleanscript.sh
