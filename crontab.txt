@@ -1,0 +1,22 @@
+GNU nano 6.4                       /tmp/crontab.AQisLY/crontab                                 
+# Edit this file to introduce tasks to be run by cron.
+# 
+#
+#  * (min 0 - 59)    * (hour  0 - 23)    * (day  1 - 31)    * (mes 1 -12)     *   (day d la sema>
+
+
+#@reboot cd /root/dir &&  nohup python3 /root/dir/bot.py > /dev/null 2>&1 &
+
+#* * * * * /root/ttscript/logcleanscript.sh
+
+#*/10 * * * *t  python3 /root/dir/script.py  > /dev/null
+
+#@reboot  python3 /root/dir/scrip.py  > /dev/null
+
+
+#1 1 * * * /root/ttscript/logcleanscript.sh
+
+1 1 * * * /root/ttscript/logcleanscript2.sh
+
+
+
